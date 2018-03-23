@@ -1,8 +1,6 @@
 /*****************************************
   Author: Ross Taylor 
   Date: 16/05/2015
-  www.rozzletron.com/projects-articles/arduino-phase-cut-pwm.html
-  ross@rozzletron.com
  
   An efficient AC phase cutting PWM for mains lighting and motors etc...
  
